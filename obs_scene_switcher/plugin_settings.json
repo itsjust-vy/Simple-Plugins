@@ -1,0 +1,10 @@
+{
+    "enabled": false,
+    "obs_host": "localhost",
+    "obs_port": 4455,
+    "obs_password": "",
+    "scenes": {
+        "in_game": "Gameplay",
+        "after_game": "Players"
+    }
+}
