@@ -1,0 +1,17 @@
+{
+    "enabled": true,
+    "tsh_host": "localhost",
+    "tsh_port": 5000,
+    "scoreboard_number": 1,
+    "player_team_map": {
+        "0": {
+            "team": 1,
+            "player": 1
+        },
+        "1": {
+            "team": 2,
+            "player": 1
+        }
+    },
+    "skin_offset": 0
+}
